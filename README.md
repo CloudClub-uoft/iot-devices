@@ -1,2 +1,3 @@
-# iot-project
-A project involving connected devices.
+# iot-devices
+Hardware and embedded software for the CloudClub IoT project.
+
